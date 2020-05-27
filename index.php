@@ -5,6 +5,6 @@
 	<title>Primer test Heroku</title>
 </head>
 <body>
-	<h1>Yisus</h1>
+	<h1>Primer test de Heroku</h1>
 </body>
 </html>
